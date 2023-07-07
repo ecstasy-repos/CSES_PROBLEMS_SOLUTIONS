@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CSES_PROBLEM_SET" Database="" Version="10000">
+  <Project Name="CSES_PROBLEM_SET_Weird_Algorithm" Path="CSES_PROBLEM_SET_Weird_Algorithm/CSES_PROBLEM_SET_Weird_Algorithm.project" Active="Yes"/>
+  <Project Name="CSES_PROBLEM_SET_Missing_Number" Path="CSES_PROBLEM_SET_Missing_Number/CSES_PROBLEM_SET_Missing_Number.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="CSES_PROBLEM_SET_Weird_Algorithm" ConfigName="Debug"/>
+      <Project Name="CSES_PROBLEM_SET_Missing_Number" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="CSES_PROBLEM_SET_Weird_Algorithm" ConfigName="Release"/>
+      <Project Name="CSES_PROBLEM_SET_Missing_Number" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
