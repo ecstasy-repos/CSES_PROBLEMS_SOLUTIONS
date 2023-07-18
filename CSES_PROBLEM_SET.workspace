@@ -1,17 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="CSES_PROBLEM_SET" Database="" Version="10000">
-  <Project Name="CSES_PROBLEM_SET_Weird_Algorithm" Path="CSES_PROBLEM_SET_Weird_Algorithm/CSES_PROBLEM_SET_Weird_Algorithm.project" Active="Yes"/>
+  <Project Name="CSES_PROBLEM_SET_Weird_Algorithm" Path="CSES_PROBLEM_SET_Weird_Algorithm/CSES_PROBLEM_SET_Weird_Algorithm.project" Active="No"/>
   <Project Name="CSES_PROBLEM_SET_Missing_Number" Path="CSES_PROBLEM_SET_Missing_Number/CSES_PROBLEM_SET_Missing_Number.project" Active="No"/>
+  <Project Name="CSES_PROBLEM_SET_Permutations" Path="CSES_PROBLEM_SET_Permutations/CSES_PROBLEM_SET_Permutations.project" Active="No"/>
+  <Project Name="CSES_PROBLEM_SET_Number_Spiral" Path="CSES_PROBLEM_SET_Number_Spiral/CSES_PROBLEM_SET_Number_Spiral.project" Active="No"/>
+  <Project Name="CSES_PROBLEM_SET_Two_Knights" Path="CSES_PROBLEM_SET_Two_Knights/CSES_PROBLEM_SET_Two_Knights.project" Active="No"/>
+  <Project Name="CSES_PROBLEM_SET_Two_Sets" Path="CSES_PROBLEM_SET_Two_Sets/CSES_PROBLEM_SET_Two_Sets.project" Active="No"/>
+  <Project Name="CSES_PROBLEM_SET_Bit_String" Path="CSES_PROBLEM_SET_Bit_String/CSES_PROBLEM_SET_Bit_String.project" Active="No"/>
+  <Project Name="CSES_PROBLEM_SET_Trailing_Zeros" Path="CSES_PROBLEM_SET_Trailing_Zeros/CSES_PROBLEM_SET_Trailing_Zeros.project" Active="No"/>
+  <Project Name="CSES_PROBLEM_SET_Coin_Piles" Path="CSES_PROBLEM_SET_Coin_Piles/CSES_PROBLEM_SET_Coin_Piles.project" Active="No"/>
+  <Project Name="CSES_PROBLEM_SET_Palindrome_Reorder" Path="CSES_PROBLEM_SET_Palindrome_Reorder/CSES_PROBLEM_SET_Palindrome_Reorder.project" Active="No"/>
+  <Project Name="CSES_PROBLEM_SET_Gray_Code" Path="CSES_PROBLEM_SET_Gray_Code/CSES_PROBLEM_SET_Gray_Code.project" Active="No"/>
+  <Project Name="CSES_PROBLEM_SET_Tower_Of_Hanoi" Path="CSES_PROBLEM_SET_Tower_Of_Hanoi/CSES_PROBLEM_SET_Tower_Of_Hanoi.project" Active="No"/>
+  <Project Name="CSES_PROBLEM_SET_Creating_Strings" Path="CSES_PROBLEM_SET_Creating_Strings/CSES_PROBLEM_SET_Creating_Strings.project" Active="Yes"/>
   <BuildMatrix>
-    <WorkspaceConfiguration Name="Debug" Selected="yes">
+    <WorkspaceConfiguration Name="Debug" Selected="no">
       <Environment/>
-      <Project Name="CSES_PROBLEM_SET_Weird_Algorithm" ConfigName="Debug"/>
+      <Project Name="CSES_PROBLEM_SET_Bit_String" ConfigName="Debug"/>
+      <Project Name="CSES_PROBLEM_SET_Coin_Piles" ConfigName="Debug"/>
+      <Project Name="CSES_PROBLEM_SET_Gray_Code" ConfigName="Debug"/>
       <Project Name="CSES_PROBLEM_SET_Missing_Number" ConfigName="Debug"/>
+      <Project Name="CSES_PROBLEM_SET_Number_Spiral" ConfigName="Debug"/>
+      <Project Name="CSES_PROBLEM_SET_Palindrome_Reorder" ConfigName="Debug"/>
+      <Project Name="CSES_PROBLEM_SET_Permutations" ConfigName="Debug"/>
+      <Project Name="CSES_PROBLEM_SET_Tower_of_\Hanoi" ConfigName="Debug"/>
+      <Project Name="CSES_PROBLEM_SET_Trailing_Zeros" ConfigName="Debug"/>
+      <Project Name="CSES_PROBLEM_SET_Two_Knights" ConfigName="Debug"/>
+      <Project Name="CSES_PROBLEM_SET_Two_Sets" ConfigName="Debug"/>
+      <Project Name="CSES_PROBLEM_SET_Weird_Algorithm" ConfigName="Debug"/>
+      <Project Name="CSES_PROBLEM_SET_Tower_Of_Hanoi" ConfigName="Debug"/>
+      <Project Name="CSES_PROBLEM_SET_Creating_Strings" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
       <Project Name="CSES_PROBLEM_SET_Weird_Algorithm" ConfigName="Release"/>
       <Project Name="CSES_PROBLEM_SET_Missing_Number" ConfigName="Release"/>
+      <Project Name="CSES_PROBLEM_SET_Permutations" ConfigName="Release"/>
+      <Project Name="CSES_PROBLEM_SET_Number_Spiral" ConfigName="Release"/>
+      <Project Name="CSES_PROBLEM_SET_Two_Knights" ConfigName="Release"/>
+      <Project Name="CSES_PROBLEM_SET_Two_Sets" ConfigName="Release"/>
+      <Project Name="CSES_PROBLEM_SET_Bit_String" ConfigName="Release"/>
+      <Project Name="CSES_PROBLEM_SET_Trailing_Zeros" ConfigName="Release"/>
+      <Project Name="CSES_PROBLEM_SET_Coin_Piles" ConfigName="Release"/>
+      <Project Name="CSES_PROBLEM_SET_Palindrome_Reorder" ConfigName="Release"/>
+      <Project Name="CSES_PROBLEM_SET_Gray_Code" ConfigName="Release"/>
+      <Project Name="CSES_PROBLEM_SET_Tower_of_\Hanoi" ConfigName="Release"/>
+      <Project Name="CSES_PROBLEM_SET_Tower_Of_Hanoi" ConfigName="Release"/>
+      <Project Name="CSES_PROBLEM_SET_Creating_Strings" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
